@@ -1,0 +1,55 @@
+body {
+	height: 800px;
+	width: 100%;
+}
+
+.btn-info {
+	margin: 1em;
+}
+
+.header-for-favorites {
+	color: blue;
+	font-size: 2em;
+}
+
+.favorites {
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+}
+
+
+.card {
+	border: none;
+}
+
+.container {
+	border: 1px solid;
+	text-align: center;
+}
+
+.alert-danger, .alert-success {
+	display: none
+}
+
+.fa-heart {
+	outline:0;
+	border: none;
+	color: red;
+}
+
+.fa-heart:focus {
+	outline:0;
+	border: none;
+}
+
+.list-of-moives-retrived {
+	border: 1px solid;
+	width: 50%;
+	height: auto;
+	display: none;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
